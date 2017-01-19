@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unidad1</string>
+    <string name="introduce_valor_de_x">Introduce valor de X</string>
+    <string name="calculate">Calculate</string>
+    <string name="seleciona_la_operacion_a_realizar">Seleciona la operacion a realizar</string>
+    <string name="operacion_x_4_x_4">Operacion (x+4)(x-4)</string>
+    <string name="introduce_valor_y">Introduce valor Y</string>
+    <string name="operacion_y2_2_y2_2">Operacion (y2 - 2)(y2 + 2)</string>
+</resources>
